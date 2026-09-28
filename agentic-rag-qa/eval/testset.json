@@ -1,0 +1,14 @@
+[
+  {"question": "How many days of annual leave do full-time staff get?", "relevant": ["leave-policy.md"], "keywords": ["20"]},
+  {"question": "What is the annual leave entitlement after five years of service?", "relevant": ["leave-policy.md"], "keywords": ["25"]},
+  {"question": "How much notice do I need to give for a week off?", "relevant": ["leave-policy.md"], "keywords": ["two weeks"]},
+  {"question": "When do I need a medical certificate for sick leave?", "relevant": ["leave-policy.md"], "keywords": ["3"]},
+  {"question": "What is the mileage reimbursement rate for using my own car?", "relevant": ["expense-policy.md"], "keywords": ["0.95"]},
+  {"question": "What is the daily meal allowance for international travel?", "relevant": ["expense-policy.md"], "keywords": ["70"]},
+  {"question": "Who needs to approve an expense claim of $3,500?", "relevant": ["expense-policy.md"], "keywords": ["Finance Director"]},
+  {"question": "How long do I have to submit an expense claim?", "relevant": ["expense-policy.md"], "keywords": ["30 days"]},
+  {"question": "How long must passwords be?", "relevant": ["it-security-policy.md"], "keywords": ["14"]},
+  {"question": "What should I do if my laptop is stolen?", "relevant": ["it-security-policy.md"], "keywords": ["24 hours"]},
+  {"question": "How do I report a phishing email?", "relevant": ["it-security-policy.md"], "keywords": ["Report Phish"]},
+  {"question": "If I work on a public holiday and travel 120 km for work, what pay rate and mileage apply?", "relevant": ["leave-policy.md", "expense-policy.md"], "keywords": ["time and a half", "0.95"]}
+]

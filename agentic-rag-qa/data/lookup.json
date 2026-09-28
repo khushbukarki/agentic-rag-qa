@@ -1,0 +1,8 @@
+{
+  "MFA": "Multi-factor authentication: signing in with a password plus a second factor such as an authenticator app.",
+  "HRPortal": "The HR self-service system used to request leave and view leave balances.",
+  "ExpenseHub": "The expense-claim system where receipts are uploaded and claims are approved.",
+  "VPN": "Virtual private network: the encrypted connection used to reach internal systems remotely.",
+  "BitLocker": "Windows full-disk encryption used on all company laptops.",
+  "Company Portal": "The catalogue of approved software that staff can install themselves."
+}
